@@ -1,2 +1,2 @@
 # TFM
-Código del Trabajo de Fin de Máster
+En este repositorio se encuentran los notebooks de Python que contienen los modelos de redes neuronales utilizados para el Trabajo de Fin de Máster "". De esta manera puede consultarse en detalle cómo se programaron los modelos comparados, en la memoria se hace referencia a las librerías utilizadas y a la configuración, así como las gráficas de rendimiento, pero aquí se encuentra comentado el código en su totalidad.
